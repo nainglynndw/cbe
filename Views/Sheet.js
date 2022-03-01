@@ -119,6 +119,7 @@ const styles = StyleSheet.create({
   teacher: {
     fontSize: 18,
     fontWeight: "bold",
+    marginVertical: 5,
   },
   lesson: {
     fontSize: 14,
